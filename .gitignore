@@ -37,3 +37,14 @@ jspm_packages
 .npm
 .node_repl_history
 .next
+
+.expo
+npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+.DS_Store
