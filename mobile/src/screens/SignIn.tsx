@@ -1,4 +1,4 @@
-import { NativeBaseProvider, Text, Center } from "native-base";
+import { NativeBaseProvider, Center } from "native-base";
 
 export function SignIn() {
   return (
